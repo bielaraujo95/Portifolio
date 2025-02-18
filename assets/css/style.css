@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: linear-gradient(to right, #007bff, #00c6ff);
+    color: white;
+    padding: 80px 0;
+}
+
+.hero img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.section-title {
+    margin-top: 50px;
+}
+
+.contact {
+    background: #f8f9fa;
+    padding: 50px 0;
+}
+
+footer {
+    background: #343a40;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+body {
+    padding-top: 70px;
+}
